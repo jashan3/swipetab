@@ -9,7 +9,7 @@ import com.example.home.swipetab.fragment.MyPagerAdapter;
 
 public class MainActivity extends AppCompatActivity {
     private Context mContext;
-
+//주석추가
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
